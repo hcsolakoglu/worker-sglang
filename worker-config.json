@@ -2,7 +2,7 @@
   "versions": {
     "0.4.1": {
       "imageName": "runpod/worker-sglang:v0.4.1stable",
-      "minimumCudaVersion": "12.1",
+      "minimumCudaVersion": "12.8",
       "categories": [
         {
           "title": "Model Settings",
@@ -70,7 +70,7 @@
     },
     "0.3.3": {
       "imageName": "runpod/worker-sglang:v0.3.3stable",
-      "minimumCudaVersion": "12.1",
+      "minimumCudaVersion": "12.8",
       "categories": [
         {
           "title": "Model Settings",
