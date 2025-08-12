@@ -12,7 +12,7 @@
     }
   ],
   "config": {
-    "gpuTypeId": "NVIDIA GeForce RTX 4090",
+    "gpuTypeId": "NVIDIA GeForce RTX 5090",
     "gpuCount": 1,
     "env": [
       {
@@ -24,6 +24,6 @@
         "value": "HuggingFaceTB/SmolLM2-1.7B-Instruct"
       }
     ],
-    "allowedCudaVersions": ["12.9", "12.8", "13"]
+    "allowedCudaVersions": ["12.9", "12.8", "13.0"]
   }
 }
